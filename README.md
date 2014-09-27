@@ -3,7 +3,7 @@
 
 ## Installation
 - Download the zip file and unzip it (or clone the repo) into	`/_add-ons/`.
-- Ensure that the folder name is `spam block` and that `spamblock.php` is in it.
+- Ensure that the folder name is `spamblock` and that `spamblock.php` is in it.
 
 ## How to use it
 - Insert following code in your template file where you want the number to be displayed: `{{ spamblock mailto="you@yourdomain.com" }}`
