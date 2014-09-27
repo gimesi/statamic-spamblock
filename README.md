@@ -6,7 +6,7 @@
 - Ensure that the folder name is `spamblock` and that `pi.spamblock.php` is in it.
 
 ## How to use it
-- Insert following code in your template file where you want the number to be displayed: `{{ spamblock mailto="you@yourdomain.com" }}`
+- Insert following code in your template file where you want the E-mail address to be displayed: `{{ spamblock mailto="you@yourdomain.com" }}`
 - Be happy.
 
 ## Optional
